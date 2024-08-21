@@ -1,0 +1,13 @@
+{
+    "folders": [
+		{
+			"name": "python_Science",
+			"path": "."
+		},
+		{
+			"name": "data",
+			"path": "../../../../../Downloads/data"
+		}
+	],
+    "settings": {}
+}
